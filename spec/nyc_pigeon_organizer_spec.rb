@@ -6,7 +6,7 @@ describe "NYC Pigeon Organizer" do
 
     before(:all) do
       pigeon_data = {
-        :color => {
+        ':color => {
           :purple => ["Theo", "Peter Jr.", "Lucky"],
           :grey => ["Theo", "Peter Jr.", "Ms. K"],
           :white => ["Queenie", "Andrew", "Ms. K", "Alex"],
