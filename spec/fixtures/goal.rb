@@ -1,6 +1,6 @@
 {
   "Theo" => {
-    :color => ["purple", "grey"],
+    ':color => ["purple", "grey"],
     :gender => ["male"],
     :lives => ["Subway"]
   },
